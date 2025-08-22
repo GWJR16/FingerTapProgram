@@ -1,0 +1,4 @@
+repository "MetaBB_HandRecordingTest/New_FingerTap@5773769655024@cloud"
+  path "/"
+    br "/main"
+    co "/main"
